@@ -1,2 +1,2 @@
-# Stone-paper-scissor-game-
+# Stone-paper-scissor-game
 Mini Project in Python
